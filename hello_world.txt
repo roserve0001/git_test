@@ -1,0 +1,3 @@
+Another test
+
+Adding some lines to this grub
